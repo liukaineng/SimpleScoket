@@ -1,0 +1,7 @@
+E:\Desktop\SimpleScoket\Client\Client\Client\bin\Debug\Client.exe.config
+E:\Desktop\SimpleScoket\Client\Client\Client\bin\Debug\Client.exe
+E:\Desktop\SimpleScoket\Client\Client\Client\bin\Debug\Client.pdb
+E:\Desktop\SimpleScoket\Client\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Desktop\SimpleScoket\Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Desktop\SimpleScoket\Client\Client\Client\obj\Debug\Client.exe
+E:\Desktop\SimpleScoket\Client\Client\Client\obj\Debug\Client.pdb
